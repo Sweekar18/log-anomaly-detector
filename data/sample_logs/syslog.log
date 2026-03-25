@@ -1,0 +1,10 @@
+Oct 10 08:00:01 server01 sshd[1001]: Accepted password for deploy from 10.0.0.1
+Oct 10 08:01:15 server01 sshd[1002]: Failed password for root from 203.0.113.42
+Oct 10 08:01:16 server01 sshd[1002]: Failed password for root from 203.0.113.42
+Oct 10 08:01:17 server01 sshd[1002]: Failed password for root from 203.0.113.42
+Oct 10 08:01:18 server01 sshd[1002]: Failed password for root from 203.0.113.42
+Oct 10 08:01:19 server01 sshd[1002]: Failed password for root from 203.0.113.42
+Oct 10 08:02:00 server01 kernel: error reading disk sector 0x1A2B3C4D
+Oct 10 08:05:30 server01 cron[2048]: pam_unix(cron:session): session opened for user root
+Oct 10 08:10:00 server01 sshd[1099]: Accepted publickey for admin from 10.0.0.5
+Oct 10 08:15:00 server01 kernel: warn: high memory usage detected on node 0
